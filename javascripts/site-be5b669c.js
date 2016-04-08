@@ -1,0 +1,1 @@
+$("#hamburger, .header a").click(function(){$("html").toggleClass("nav-open")}),$("header a").smoothScroll();
